@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1, Al Hurra
+https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+#EXTINF:-1, Al Hurra Iraq
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
+#EXTINF:-1, RT Arabic
+https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
+#EXTINF:-1, Asharq TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/master-720.m3u8
+#EXTINF:-1, Al Ghad Al Araby
+https://www.youtube.com/watch?v=s_lfbFjs_Yw
+#EXTINF:-1, Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1, France24 Arabic
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:-1, Al Mamlaka
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8?DVR
+#EXTINF:-1, DW Arabic
+https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Al Araby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, TRT Arabic
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
